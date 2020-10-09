@@ -1,0 +1,147 @@
+main{
+  padding: 0;
+}
+.header-div{
+  position: relative;
+  height: 110px;
+  width: auto;
+}
+header{
+  position: sticky;
+  top:0;
+  padding:40px;
+  background: #9B311A;
+  text-align: center;
+}
+.head-icon{
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 180px;
+  top: 0;
+}
+.top-panelone{
+  position: absolute;
+  right:350px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-paneltwo{
+  position: absolute;
+  right:250px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-panelthree{
+  position: absolute;
+  right:150px;
+  top: 12px;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #4ab19a;
+  text-decoration: none;
+}
+.top-container{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 200px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #DF7861;
+}
+h1{
+  margin-top: 40px;
+  font-family: 'Indie Flower';
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  color: #5B1606;
+}
+.paragraph-title{
+  font-family: 'Indie Flower';
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 20px;
+  color: #5B1606;
+}
+.background{
+  position:relative;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.middle-container{
+  position: relative;
+  text-align: center;
+  margin-top: 0px;
+  background-color: #f1f9f9;
+}
+.middle-paintbox{
+  height: 180px;
+  width: 180px;
+}
+.heading-middle{
+  font-family: Sacramento;
+  color: #348e7a;
+  font-size: 25px;
+}
+.paragraph-middle{
+  font-family: Sacramento;
+  font-size: 20px;
+  color: #333333;
+}
+h2{
+  font-family: Sacramento;
+  color: #135446;
+  font-size: 30px;
+  font-weight: lighter;
+}
+.bottom-container{
+  background-color: #F4A998;
+  padding: 60px 0 40px;
+
+}
+.footer-link{
+  position: relative;
+  font-size: 22px;
+  font-family: Sacramento;
+  color: #5B1606;
+  margin: 40px 40px;
+  text-decoration: none;
+}
+.copyright{
+  font-size: 12px;
+  font-family: Sacramento;
+  color: #5B1606;
+}
+.btn {
+  font-family: Sacramento;
+  color: #5B1606;
+  font-size: 24px;
+  text-decoration: none;
+  margin-left: 40px;
+}
+.btn:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.top-panelone:hover {
+  color: #ffff;
+  text-decoration: none;
+}
+.top-paneltwo:hover {
+  color: #ffff;
